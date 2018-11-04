@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author roshnipatel
+ *
+ */
+module amazon {
+}
